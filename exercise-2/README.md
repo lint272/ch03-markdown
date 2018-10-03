@@ -9,3 +9,9 @@ you are taking, with separate columns for course number (in **bold**),
 course title (in _italics_), and instructor.
 
 See `complete` branch for answers.
+
+| Course Number | Course Title | Instuctor |
+| --- | --- |
+| **INFO201** | _Technical Foundations_ | Ott Toomet|
+| **LING200** | _Introduction to Linguistic Thought_| Laura McGarrity |
+| **STAT311** | _Elements of Statistical Methods_ | Tamre Cardoso|
