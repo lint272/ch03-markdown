@@ -10,3 +10,7 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+> Remember, reality is an illusion, the universe is a hologram, buy gold, bye!
+
+Bill Cipher ([Wikipedia](http://gravityfalls.wikia.com/wiki/Bill_Cipher))
